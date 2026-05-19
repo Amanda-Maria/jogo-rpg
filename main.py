@@ -87,7 +87,6 @@ class Personagem:
             self.defendendo = False
             inimigo.defendendo = False
 
-        #   RESULTADO DA BATALHA
         if self.vida <= 0:
             print(f"\n{self.nome} foi derrotado!")
         else:
