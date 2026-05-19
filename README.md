@@ -56,10 +56,10 @@ O jogo conta com **4 inimigos**, cada um com características, atributos e habil
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/a-pedra-do-selo.git
+git clone https://github.com/Amanda-Maria/jogo-rpg.git
 
 # Acesse a pasta do projeto
-cd a-pedra-do-selo
+cd jogoRPG
 
 # Execute o jogo
 python main.py
